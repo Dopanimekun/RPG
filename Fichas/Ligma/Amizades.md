@@ -1,7 +1,0 @@
-Ele tem amigos como todo mundo né mano, poucos amigos, mas verdadeiros. Ele daria sua vida por eles.
-
-- [[César]] é o amigo mais velho e mais experiente em combate que Ligma conhece, ele aprendeu bastante técnicas de combate. Jaz a lenda que [[César]] sobreviveu a um combate intenso, próximo as montanhas glaciais, com criaturas negras de olhos roxos, além de aguentar uma enorme explosão de peito aberto ao final desse combate. Alguns o chamam de "Cesinha".
-- [[Michael]] infelizmente sofria com um problema sério de memória, mas era um combatente excepcional, seus golpes eram precisos e fatais. Suas habilidades como lutador era bem notável. Há um evento em seu passado que as pessoas se recusam a falar sobre, incluindo ele mesmo, algo que ele gostaria de esquecer, mas não consegue.
-- [[Shizuka]] é estrangeira, ela vem do império de Jade. Para ganhar a vida no Reino Celestial, [[Shizuka]] trabalha como tutora autônoma, dedicada a ensinar os fundamentos da mana, como ela funciona e como os seres vivos se comportam. Ela foi uma das pessoas que o influenciou a virar alquimista. Uma vez no passado, teve que escolher quem deveria salvar e quem deveria morrer, esse foi o maior karma de sua vida.
-
-Voltar para [[Ligma]].
