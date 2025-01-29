@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "f2abdb275b50ddc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "78ae0a5bdce41bfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e815ca2bb7a8bf7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Traje Praetor/Praetor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Praetor"
+            }
+          },
+          {
+            "id": "2bffef0b7e570939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inventos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inventos"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f0cc803291f536b",
+    "type": "split",
+    "children": [
+      {
+        "id": "39b2e79f72a4125d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d527b28731fa15e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "30042e53ede81c04",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "8148ec3097b82379",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f3cf2343e914bb71",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0ff160edc353494",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9124577a27c3edff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Inventos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Inventos"
+            }
+          },
+          {
+            "id": "5e2804bf902ffea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Inventos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Inventos"
+            }
+          },
+          {
+            "id": "3f614e3f7e08e6af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d848b4820bcbe2e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Inventos.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Inventos"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2bffef0b7e570939",
+  "lastOpenFiles": [
+    "Traje Praetor/Praetor.md",
+    "Inventos.md",
+    "Traje Praetor/Praetor 1.0.md",
+    "Traje Praetor/Praetor 0.4.md",
+    "Traje Praetor/Praetor 0.3.md",
+    "Traje Praetor/Praetor 0.2.md",
+    "Traje Praetor/Praetor 0.1.md",
+    "Traje Praetor",
+    "Welcome.md"
+  ]
+}
