@@ -10,8 +10,8 @@ RD 6 (Dano de Fogo)
 +4 FOR
 +2 DES
 Deslocamento +6
-Ao fazer qualquer ação, perde 1d4 de PV de dano de impacto. A ativação desta versão reduz o PV atual para 1 e transforma o resto do PV em PV temporário. Ao desativar, entra em morrendo imediatamente.
+Ao fazer qualquer ação, perde 1d4 de PV de dano de impacto. A ativação desta versão reduz o PV atual para 1 e transforma o resto do PV em PV temporário. Magias e poções que recuperam PV normalmente, passam a recuperar PV temporário. Ao desativar, entra em morrendo imediatamente.
 
-A pressão de usar a armadura aumentou, tendo seus efeitos dobrados
+O dobro dos efeitos em relação anterior foram aplicados ao custo da pressão.
 
 [[Praetor]]

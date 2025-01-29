@@ -9,6 +9,4 @@ RD 3 (Fogo)
 +2 FOR
 1d6 de dano de impacto por rodada
 
-Ela ainda não foi perfeitamente ajustada, porém melhorias para o combate foram feitas. A pressão da armadura é forte, é difícil usá-la sem danos.
-
 [[Praetor]]

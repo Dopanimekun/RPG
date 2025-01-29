@@ -6,3 +6,5 @@ Ele é um armadura que, quando vestida, concede alguns bônus específicos ao cu
 - [[Praetor 0.3]] (Nível 11-15 de Inventor)
 - [[Praetor 0.4]] (Nível 16-19 de Inventor)
 - [[Praetor 1.0]] (Nível 20 de Inventor)
+
+[[Inventos]]
