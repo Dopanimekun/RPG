@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Crisol/Crisol.md",
+                "file": "1 Inventos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Crisol"
+              "title": "1 Inventos"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -164,11 +165,22 @@
   },
   "active": "2bffef0b7e570939",
   "lastOpenFiles": [
-    "Crisol/Crisol (Espada).md",
-    "Crisol/Crisol.md",
-    "Crisol",
-    "Inventos.md",
+    "Crisol.md",
+    "1 Inventos.md",
+    "Super Escopeta.md",
+    "Crisol Doom 2016.webp",
+    "Crisol Doom Eternal.webp",
+    "Crisol Doom 2016.webp.crdownload",
+    "Crisol Doom Eternal.webp.crdownload",
+    "Referência visual Traje Praetor e Escudo.jpg",
+    "Escudo chave de Doom The Dark Ages.md",
+    "DOOM-DarkAges_Premium_Keyart_FINAL-01-883107d8d80410e9648b.jpg",
+    "DOOM-DarkAges_Premium_Keyart_FINAL-01-883107d8d80410e9648b.jpg.crdownload",
     "Traje Praetor/Praetor.md",
+    "Crisol/Crisol (Espada).md",
+    "Crisol/Crisol (Machado).md",
+    "Crisol/Crisol (GS).md",
+    "Crisol",
     "Traje Praetor/Praetor 1.0.md",
     "Traje Praetor/Praetor 0.4.md",
     "Traje Praetor/Praetor 0.3.md",

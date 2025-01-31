@@ -1,0 +1,1 @@
+É uma super escopeta com dois canos, dois tiros simultâneos. O dano é massivo e tem um gancho pra se aproximar de um inimigo em alcance médio.

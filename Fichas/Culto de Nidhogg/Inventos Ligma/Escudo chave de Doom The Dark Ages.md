@@ -1,0 +1,1 @@
+É a porra de um escudo COM UMA MOTO SERRA.
