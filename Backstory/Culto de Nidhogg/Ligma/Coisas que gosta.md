@@ -1,3 +1,3 @@
-Assim como todo ser vivente, ele tem seus gostos. Ele gosta de se divertir com os amigos, comida picante, comida doce, brincar com seus animais de estimação, discutir ideias com outros estudantes da academia, começar uma discussão com estranhos no meio da rua como se fosse sócrates e dormir, dormir bastante.
+Assim como todo ser vivente, ele tem seus gostos. Ele gosta de ler livros, comida picante, doces, brincar com seus [[Animais de estimação]], discutir ideias com outros estudantes da academia, compreender o mundo ao seu redor e lutar.
 
 Voltar para [[Ligma]].

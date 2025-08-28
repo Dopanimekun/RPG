@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "de24eb77fd235399",
+    "id": "7726c81fc010efb5",
     "type": "split",
     "children": [
       {
-        "id": "09f5e64181f4e68a",
+        "id": "5b5a11bbdd19c12a",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4ed66f9978062f",
+            "id": "2220546299613e49",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Referência visual (Marlin, Tormenta20 DBride).jpg"
+                "file": "Menu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Referência visual (Marlin, Tormenta20 DBride)"
+              "icon": "lucide-file",
+              "title": "Menu"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "372ae8017cd54d0e",
+    "id": "f04fec6940602537",
     "type": "split",
     "children": [
       {
-        "id": "5e03d34dfe19ef69",
+        "id": "caef8cb5370a5981",
         "type": "tabs",
         "children": [
           {
-            "id": "f42939897c161709",
+            "id": "0c1591339d24812c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +48,7 @@
             }
           },
           {
-            "id": "7477e4f091796b95",
+            "id": "67e3ebda6d9e6f18",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "e4930826cf7bc335",
+            "id": "91f90f167cdab3de",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -79,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "8a8c5dc6fe6d8be4",
+    "id": "601d9da52859f2cf",
     "type": "split",
     "children": [
       {
-        "id": "92ce1564b2fe417f",
+        "id": "540e51b43576f41c",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7dfd01bf040361",
+            "id": "2499cfcd863dfc11",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aparência física.md",
+                "file": "Menu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,50 +104,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Aparência física"
+              "title": "Backlinks for Menu"
             }
           },
           {
-            "id": "313238d2a91bb328",
+            "id": "5dd9075645bbeba6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coisas que não gosta.md",
+                "file": "Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Coisas que não gosta"
+              "title": "Outgoing links from Menu"
             }
           },
           {
-            "id": "c9bda9fe67f29bdb",
+            "id": "4e6bfcaa8f31527f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "f15b16769b0cdaa4",
+            "id": "b3ef05975167ad48",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aparência física.md"
+                "file": "Menu.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aparência física"
+              "title": "Outline of Menu"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,25 +169,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea4ed66f9978062f",
+  "active": "0c1591339d24812c",
   "lastOpenFiles": [
-    "Ligma.md",
-    "Animais de estimação.md",
-    "Coisas que gosta.md",
-    "Devoção à Tanna-Toh.md",
-    "Objetivo de vida.md",
-    "Lugares favoritos.md",
-    "Decepções.md",
-    "Hobbies.md",
-    "Aspirações.md",
-    "Amizades.md",
-    "Coisas que não gosta.md",
-    "História.md",
-    "César.md",
-    "Aparência física.md",
-    "Referência visual (Marlin, Tormenta20 DBride).jpg",
-    "Eb37ThyWkAEf_Z4.jpg",
-    "Eb37ThyWkAEf_Z4.jpg.crdownload",
-    "Welcome.md"
+    "Equipamentos/Machado de Guerra.md",
+    "Equipamentos/Equipamentos.md",
+    "Menu.md",
+    "Engenhocas/Engenhocas.md",
+    "Livro de Fórmulas/Livro de Fórmulas.md",
+    "Engenhocas",
+    "Livro de Fórmulas",
+    "Equipamentos"
   ]
 }
