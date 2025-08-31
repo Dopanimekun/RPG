@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "7726c81fc010efb5",
+    "id": "3f910a9367d2994c",
     "type": "split",
     "children": [
       {
-        "id": "5b5a11bbdd19c12a",
+        "id": "c5bd0228d3fd7e6f",
         "type": "tabs",
         "children": [
           {
-            "id": "2220546299613e49",
+            "id": "8e2d5e78dce6800c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipamentos/Machado de Guerra.md",
+                "file": "0 - Índice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machado de Guerra"
+              "title": "0 - Índice"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f04fec6940602537",
+    "id": "6cdc215d0b6685ed",
     "type": "split",
     "children": [
       {
-        "id": "caef8cb5370a5981",
+        "id": "a295279418eaf87d",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1591339d24812c",
+            "id": "af4445799f187e2a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "67e3ebda6d9e6f18",
+            "id": "f3c47a36c13d8427",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "91f90f167cdab3de",
+            "id": "88e836ce6c14fd20",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "601d9da52859f2cf",
+    "id": "9544d56d91fd3d72",
     "type": "split",
     "children": [
       {
-        "id": "540e51b43576f41c",
+        "id": "b2cbb7ebcf87fce7",
         "type": "tabs",
         "children": [
           {
-            "id": "2499cfcd863dfc11",
+            "id": "43f36efcbe1f76e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Menu.md",
+                "file": "9 - Preço e Custo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Menu"
+              "title": "Backlinks for 9 - Preço e Custo"
             }
           },
           {
-            "id": "5dd9075645bbeba6",
+            "id": "39ccd065e9698cc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Menu.md",
+                "file": "9 - Preço e Custo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Menu"
+              "title": "Outgoing links from 9 - Preço e Custo"
             }
           },
           {
-            "id": "4e6bfcaa8f31527f",
+            "id": "f08dde07ed3367ef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "b3ef05975167ad48",
+            "id": "ab8094ead49af735",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Menu.md",
+                "file": "9 - Preço e Custo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Menu"
+              "title": "Outline of 9 - Preço e Custo"
             }
           }
         ]
@@ -169,15 +169,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "2220546299613e49",
+  "active": "8e2d5e78dce6800c",
   "lastOpenFiles": [
-    "Equipamentos/Equipamentos.md",
-    "Menu.md",
+    "9 - Preço e Custo.md",
+    "8 - Regras.md",
+    "7 - Engenhocas.md",
+    "6 - Inventário.md",
+    "5 - Equipamento.md",
+    "4 - Livro de Fórmulas.md",
+    "3 - Poderes.md",
+    "2 - Atributos e Perícias.md",
+    "1 - Construção de Personagem.md",
+    "0 - Índice.md",
     "Equipamentos/Machado de Guerra.md",
-    "Engenhocas/Engenhocas.md",
-    "Livro de Fórmulas/Livro de Fórmulas.md",
+    "Compreensão.md",
+    "Equipamentos/Armadura de Couro.md",
+    "Engenhocas/HAHA JONATHAN I'M IN YOUR COMPUTES.md",
     "Engenhocas",
-    "Livro de Fórmulas",
-    "Equipamentos"
+    "Equipamentos",
+    "Livro de Fórmulas/Concentração.md",
+    "Livro de Fórmulas/Curar Ferimentos.md",
+    "Livro de Fórmulas/Consagrar.md",
+    "Livro de Fórmulas/Controlar Madeira.md",
+    "Livro de Fórmulas/Imagem Espelhada.md",
+    "Livro de Fórmulas/Sono.md",
+    "Livro de Fórmulas/Transmutar Objetos.md",
+    "Livro de Fórmulas/Teia.md",
+    "Livro de Fórmulas/Toque Chocante.md",
+    "Livro de Fórmulas/Tranquilidade.md",
+    "Livro de Fórmulas/Crânio voador de Vladislav.md",
+    "Livro de Fórmulas/Velocidade.md",
+    "Livro de Fórmulas"
   ]
 }
