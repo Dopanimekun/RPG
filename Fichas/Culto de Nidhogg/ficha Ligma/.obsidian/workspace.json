@@ -1,22 +1,24 @@
 {
   "main": {
-    "id": "de24eb77fd235399",
+    "id": "3f910a9367d2994c",
     "type": "split",
     "children": [
       {
-        "id": "09f5e64181f4e68a",
+        "id": "c5bd0228d3fd7e6f",
         "type": "tabs",
         "children": [
           {
-            "id": "ea4ed66f9978062f",
+            "id": "8e2d5e78dce6800c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Referência visual (Marlin, Tormenta20 DBride).jpg"
+                "file": "0 - Índice.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Referência visual (Marlin, Tormenta20 DBride)"
+              "icon": "lucide-file",
+              "title": "0 - Índice"
             }
           }
         ]
@@ -25,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "372ae8017cd54d0e",
+    "id": "6cdc215d0b6685ed",
     "type": "split",
     "children": [
       {
-        "id": "5e03d34dfe19ef69",
+        "id": "a295279418eaf87d",
         "type": "tabs",
         "children": [
           {
-            "id": "f42939897c161709",
+            "id": "af4445799f187e2a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +48,7 @@
             }
           },
           {
-            "id": "7477e4f091796b95",
+            "id": "f3c47a36c13d8427",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,17 +61,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
-            "id": "e4930826cf7bc335",
+            "id": "88e836ce6c14fd20",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -79,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "8a8c5dc6fe6d8be4",
+    "id": "9544d56d91fd3d72",
     "type": "split",
     "children": [
       {
-        "id": "92ce1564b2fe417f",
+        "id": "b2cbb7ebcf87fce7",
         "type": "tabs",
         "children": [
           {
-            "id": "ef7dfd01bf040361",
+            "id": "43f36efcbe1f76e2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aparência física.md",
+                "file": "9 - Preço e Custo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,50 +104,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Aparência física"
+              "title": "Backlinks for 9 - Preço e Custo"
             }
           },
           {
-            "id": "313238d2a91bb328",
+            "id": "39ccd065e9698cc6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coisas que não gosta.md",
+                "file": "9 - Preço e Custo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Coisas que não gosta"
+              "title": "Outgoing links from 9 - Preço e Custo"
             }
           },
           {
-            "id": "c9bda9fe67f29bdb",
+            "id": "f08dde07ed3367ef",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "f15b16769b0cdaa4",
+            "id": "ab8094ead49af735",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aparência física.md"
+                "file": "9 - Preço e Custo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Aparência física"
+              "title": "Outline of 9 - Preço e Custo"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -163,25 +169,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "ea4ed66f9978062f",
+  "active": "8e2d5e78dce6800c",
   "lastOpenFiles": [
-    "Ligma.md",
-    "Animais de estimação.md",
-    "Coisas que gosta.md",
-    "Devoção à Tanna-Toh.md",
-    "Objetivo de vida.md",
-    "Lugares favoritos.md",
-    "Decepções.md",
-    "Hobbies.md",
-    "Aspirações.md",
-    "Amizades.md",
-    "Coisas que não gosta.md",
-    "História.md",
-    "César.md",
-    "Aparência física.md",
-    "Referência visual (Marlin, Tormenta20 DBride).jpg",
-    "Eb37ThyWkAEf_Z4.jpg",
-    "Eb37ThyWkAEf_Z4.jpg.crdownload",
-    "Welcome.md"
+    "9 - Preço e Custo.md",
+    "8 - Regras.md",
+    "7 - Engenhocas.md",
+    "6 - Inventário.md",
+    "5 - Equipamento.md",
+    "4 - Livro de Fórmulas.md",
+    "3 - Poderes.md",
+    "2 - Atributos e Perícias.md",
+    "1 - Construção de Personagem.md",
+    "0 - Índice.md",
+    "Equipamentos/Machado de Guerra.md",
+    "Compreensão.md",
+    "Equipamentos/Armadura de Couro.md",
+    "Engenhocas/HAHA JONATHAN I'M IN YOUR COMPUTES.md",
+    "Engenhocas",
+    "Equipamentos",
+    "Livro de Fórmulas/Concentração.md",
+    "Livro de Fórmulas/Curar Ferimentos.md",
+    "Livro de Fórmulas/Consagrar.md",
+    "Livro de Fórmulas/Controlar Madeira.md",
+    "Livro de Fórmulas/Imagem Espelhada.md",
+    "Livro de Fórmulas/Sono.md",
+    "Livro de Fórmulas/Transmutar Objetos.md",
+    "Livro de Fórmulas/Teia.md",
+    "Livro de Fórmulas/Toque Chocante.md",
+    "Livro de Fórmulas/Tranquilidade.md",
+    "Livro de Fórmulas/Crânio voador de Vladislav.md",
+    "Livro de Fórmulas/Velocidade.md",
+    "Livro de Fórmulas"
   ]
 }
