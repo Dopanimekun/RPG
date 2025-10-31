@@ -4,8 +4,7 @@
 **Área: esfera com 9m de raio**
 **Duração: 1 dia**
 
-Esta magia enche a área com energia positiva. Efeitos de luz que curam pontos de vida ou canalizam energia positiva têm seus efeitos maximizados. Por exemplo, Curar Ferimentos cura automaticamente 18 PV em alvos dentro da área. Esta magia não pode ser lança-
-da em uma área contendo um símbolo visível dedicado a uma divindade que não a sua. Consagrar anula Profanar.
+Esta magia enche a área com energia positiva. Efeitos de luz que curam pontos de vida ou canalizam energia positiva têm seus efeitos maximizados. Por exemplo, Curar Ferimentos cura automaticamente 18 PV em alvos dentro da área. Esta magia não pode ser lançada em uma área contendo um símbolo visível dedicado a uma divindade que não a sua. Consagrar anula Profanar.
 
 **+1 PM:** além do normal, mortos-vivos
 na área sofrem –2 em testes e Defesa.
