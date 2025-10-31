@@ -11,12 +11,10 @@
             "id": "ea4ed66f9978062f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Referência visual (Marlin, Tormenta20 DBride).jpg"
-              },
-              "icon": "lucide-image",
-              "title": "Referência visual (Marlin, Tormenta20 DBride)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
