@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Imagem Espelhada"
             }
+          },
+          {
+            "id": "bfdcec240b4b7f96",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0cb0629181ed8cc6",
+  "active": "bfdcec240b4b7f96",
   "lastOpenFiles": [
     "Livro de Fórmulas/Consagrar.md",
     "Livro de Fórmulas/Teia.md",
