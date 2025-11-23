@@ -1,4 +1,4 @@
-[[Machado de Guerra]]
-[[Armadura de Couro]]
+[[Martelo de Guerra]]
+[[Armadura de Gelo Eterno]]
 
 [[0 - Índice]]

@@ -1,11 +1,12 @@
 # Poder de devoto e origem
 ## Voz da civilzação
 Está sempre sob efeito de [[Compreensão]].
-## Aparência inofensiva
+## Venefício
 
-A primeira criatura inteligente (Int 3 ou mais) que atacar você em uma cena deve fazer um teste de Vontade (CD Car). Se falhar, perderá sua ação. Este poder só funciona uma vez por cena; independentemente de a criatura falhar ou não no teste, poderá atacá-lo nas rodadas seguintes.
-*Pré-requisito: Car 13.*
-
+Quando usa um veneno, você não corre risco de
+se envenenar acidentalmente. Além disso, a CD para
+resistir aos seus venenos aumenta em +2. Pré-requisito:
+treinado em Ofício (alquimia).
 
 # Poderes de Inventor
 ## **Nível 1**
@@ -16,14 +17,16 @@ A primeira criatura inteligente (Int 3 ou mais) que atacar você em uma cena dev
 **Alquimista Iniciado** - Você recebe um livro de fórmulas e pode fabricar poções com fórmulas que conheça de 1o e 2o círculos. Veja a página 327 para as regras de poções.
 *Pré-requisitos: Int 13, Sab 13, treinado em Ofício (alquimia).*
 ## Nível 3
-**Comerciante** - No 3o nível, você pode vender itens 10% mais caro (não cumulativo com barganha).
-**Alquimista de Batalha** - Quando usa um item alquímico ou poção que cause dano, você soma seu modificador de Inteligência na rolagem de dano.
-*Pré-requisito: Alquimista Iniciado.*
+**Comerciante** - No 3º nível, você pode vender itens 10% mais caro (não cumulativo com barganha).
+**Engenhoqueiro** - Você pode fabricar engenhocas.
+Veja as regras para isso na página 70.
+*Pré-requisitos: Int 17, treinado em Ofício (engenhoqueiro).*
 ## Nível 4
 **Fabricar Item Superior** - Duas modificações
-**Aumento de Atributo** - Inteligência +2
-## Nível 5
 **Síntese Rápida** - Você fabrica itens alquímicos e poções em uma categoria de tempo menor. Três meses viram um mês, um mês vira uma semana, uma semana vira um dia e um dia vira uma hora (o tempo mínimo).
+*Pré-requisito: Alquimista Iniciado.*
+## Nível 5
+**Catalisador Instável** - Você pode gastar uma ação completa e 3 PM para fabricar um item alquímico ou poção cuja fórmula conheça instantaneamente. O custo do item é reduzido à metade e você não precisa fazer o teste de Ofício (alquimia). Contudo, ele só dura até o fim da cena.
 *Pré-requisito: Alquimista Iniciado.*
 ## Nível 6
 **Fabricar Item Superior** - Três modificações

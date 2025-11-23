@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Equipamentos/Machado de Guerra.md",
+                "file": "Engenhocas/Engenhocas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Machado de Guerra"
+              "title": "Engenhocas"
             }
           }
         ]
@@ -171,11 +171,11 @@
   },
   "active": "2220546299613e49",
   "lastOpenFiles": [
-    "Equipamentos/Equipamentos.md",
     "Menu.md",
-    "Equipamentos/Machado de Guerra.md",
-    "Engenhocas/Engenhocas.md",
     "Livro de Fórmulas/Livro de Fórmulas.md",
+    "Equipamentos/Machado de Guerra.md",
+    "Equipamentos/Equipamentos.md",
+    "Engenhocas/Engenhocas.md",
     "Engenhocas",
     "Livro de Fórmulas",
     "Equipamentos"

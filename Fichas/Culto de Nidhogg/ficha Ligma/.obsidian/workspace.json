@@ -11,10 +11,14 @@
             "id": "8e2d5e78dce6800c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - Atributos e Perícias.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - Atributos e Perícias"
             }
           }
         ]
@@ -167,14 +171,14 @@
   },
   "active": "8e2d5e78dce6800c",
   "lastOpenFiles": [
-    "Engenhocas/HAHA JONATHAN I'M IN YOUR COMPUTES.md",
-    "0 - Índice.md",
-    "9 - Preço e Custo.md",
+    "3 - Poderes.md",
     "2 - Atributos e Perícias.md",
+    "1 - Construção de Personagem.md",
+    "0 - Índice.md",
+    "Engenhocas/HAHA JONATHAN I'M IN YOUR COMPUTES.md",
+    "9 - Preço e Custo.md",
     "Equipamentos/Machado de Guerra.md",
     "5 - Equipamento.md",
-    "3 - Poderes.md",
-    "1 - Construção de Personagem.md",
     "8 - Regras.md",
     "7 - Engenhocas.md",
     "6 - Inventário.md",
