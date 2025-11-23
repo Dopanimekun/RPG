@@ -23,19 +23,19 @@
 
 | Perícia                | ATR | MOD | 1/2 Nv | Treino | Raça | Bônus | Total |
 | ---------------------- | --- | --- | ------ | ------ | ---- | ----- | ----- |
-| Conhecimento           | INT | 6   | 5      | 4      |      |       | 15    |
-| Cura                   | SAB | 4   | 5      | 4      |      |       | 13    |
-| Guerra                 | INT | 6   | 5      | 4      |      | 2     | 17    |
-| Investigação           | INT | 6   | 5      | 4      |      |       | 15    |
-| Luta                   | FOR | 3   | 5      | 4      |      |       | 12    |
-| Miticismo              | INT | 6   | 5      | 4      | 2    |       | 17    |
-| Ofício (Alquimia)      | INT | 6   | 5      | 4      |      |       | 15    |
-| Ofício (Armeiro)       | INT | 6   | 5      | 4      |      |       | 15    |
-| Ofício (Engenhoqueiro) | INT | 6   | 5      | 4      |      |       | 15    |
-| Percepção              | SAB | 4   | 5      | 4      | 2    |       | 15    |
-| Reflexos               | DES | 3   | 5      | 4      |      |       | 12    |
-| Religão                | SAB | 4   | 5      | 4      |      |       | 13    |
-| Vontade                | SAB | 4   | 5      | 4      |      |       | 13    |
+| Conhecimento           | INT | 6   | 5      | 9      |      |       | 20    |
+| Cura                   | SAB | 4   | 5      | 9      |      |       | 18    |
+| Guerra                 | INT | 6   | 5      | 9      |      | 2     | 22    |
+| Investigação           | INT | 6   | 5      | 9      |      |       | 20    |
+| Luta                   | FOR | 3   | 5      | 9      |      |       | 17    |
+| Miticismo              | INT | 6   | 5      | 9      | 2    |       | 22    |
+| Ofício (Alquimia)      | INT | 6   | 5      | 9      |      |       | 20    |
+| Ofício (Armeiro)       | INT | 6   | 5      | 9      |      |       | 20    |
+| Ofício (Engenhoqueiro) | INT | 6   | 5      | 9      |      |       | 20    |
+| Percepção              | SAB | 4   | 5      | 9      | 2    |       | 20    |
+| Reflexos               | DES | 3   | 5      | 9      |      |       | 17    |
+| Religão                | SAB | 4   | 5      | 9      |      |       | 18    |
+| Vontade                | SAB | 4   | 5      | 9      |      |       | 18    |
 
 # Perícias Treinadas
 ## Classe e Origem
