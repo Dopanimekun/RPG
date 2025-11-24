@@ -7,12 +7,12 @@
 [[Teia]] - Custo 10 (Nível 3)
 [[Transmutar Objetos]] - Custo 10 (Nível 4)
 [[Toque Chocante]] - Custo 10 (Nível 5)
-[[Tranquilidade]] - Custo 10 (Nível 6)
+[[Concentração]] - Custo 10 (Nível 6)
 
 ============================================
 
 [[Crânio voador de Vladislav]] -  Custo 90 (Nível 7)
-[[Concentração]] - Custo 10 (Nível 8)
+[[Tranquilidade]] - Custo 10 (Nível 8)
 [[Controlar Madeira]] - Custo 90 (Nível 9)
 [[Enxame de Pesteste]] - Custo 90 (Nível 10)
 [[Velocidade]] - Custo 360 (Nível 10)

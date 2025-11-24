@@ -26,21 +26,21 @@ Veja as regras para isso na página 70.
 **Síntese Rápida** - Você fabrica itens alquímicos e poções em uma categoria de tempo menor. Três meses viram um mês, um mês vira uma semana, uma semana vira um dia e um dia vira uma hora (o tempo mínimo).
 *Pré-requisito: Alquimista Iniciado.*
 ## Nível 5
-**Catalisador Instável** - Você pode gastar uma ação completa e 3 PM para fabricar um item alquímico ou poção cuja fórmula conheça instantaneamente. O custo do item é reduzido à metade e você não precisa fazer o teste de Ofício (alquimia). Contudo, ele só dura até o fim da cena.
-*Pré-requisito: Alquimista Iniciado.*
+**Armeiro** - Você recebe proficiência com arma marciais corpo a corpo. Quando empunha uma arma corpo a corpo, pode usar sua Inteligência em vez de Força nos testes de ataque e rolagens de dano.
+*Pré-requisitos: treinado em Luta e Ofício (armeiro).*
 ## Nível 6
 **Fabricar Item Superior** - Três modificações
-**Engenhoqueiro** - Você pode fabricar engenhocas. Veja as regras para isso na página 70.
-*Pré-requisitos: Int 17, treinado em Ofício (engenhoqueiro).*
+**Catalisador Instável** - Você pode gastar uma ação completa e 3 PM para fabricar um item alquímico ou poção cuja fórmula conheça instantaneamente. O custo do item é reduzido à metade e você não precisa fazer o teste de Ofício (alquimia). Contudo, ele só dura até o fim da cena.
+*Pré-requisito: Alquimista Iniciado.*
 ## Nível 7
-**Encontrar Fraqueza** - A partir do 7o nível, você pode gastar uma ação de movimento e 2 PM
+**Encontrar Fraqueza** - A partir do 7° nível, você pode gastar uma ação de movimento e 2 PM
 para analisar um objeto em alcance curto. Se fizer isso, ignora a resistência a dano dele. Você também pode usar esta habilidade para encontrar uma fraqueza em um inimigo. Se ele estiver de armadura ou for um construto, você recebe +2 em seus testes de ataque contra ele. Os benefícios desta habilidade duram até o fim da cena.
 **Armeiro** - Você recebe proficiência com armas marciais corpo a corpo. Quando usa uma arma corpo a corpo, pode usar seu modificador de Inteligência em vez de Força nos testes de ataque e rolagens de dano.
 *Pré-requisitos: treinado em Luta e Ofício (armeiro).*
 ## Nível 8
 **Fabricar Item Superior** - Quatro Modificações
 **Ferreiro** - Quando usa uma arma corpo a corpo feita por você mesmo, o dano dela aumenta em um passo.
-*Pré-requisitos: Armeiro, 5o nível de inventor.*
+*Pré-requisitos: Armeiro, 5° nível de inventor.*
 ## Nível 9
 **Fabricar Item Mágico** - Menor
 **Granadeiro** - Você pode arremessar itens alquímicos e poções em alcance médio. Você pode usar seu modificador de Inteligência em vez de Destreza para calcular a CD do teste de resistência desses itens.
