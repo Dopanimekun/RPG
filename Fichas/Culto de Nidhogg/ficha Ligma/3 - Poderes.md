@@ -1,11 +1,9 @@
 # Poder de devoto e origem
 ## Voz da civilzação
 Está sempre sob efeito de [[Compreensão]].
-## Aparência inofensiva
+## Palpite Fundamentado
 
-A primeira criatura inteligente (Int 3 ou mais) que atacar você em uma cena deve fazer um teste de Vontade (CD Car). Se falhar, perderá sua ação. Este poder só funciona uma vez por cena; independentemente de a criatura falhar ou não no teste, poderá atacá-lo nas rodadas seguintes.
-*Pré-requisito: Car 13.*
-
+Você pode gastar 2 PM para substituir um teste de qualquer perícia originalmente baseada em Inteligência ou Sabedoria por um teste de Conhecimento.
 
 # Poderes de Inventor
 ## **Nível 1**

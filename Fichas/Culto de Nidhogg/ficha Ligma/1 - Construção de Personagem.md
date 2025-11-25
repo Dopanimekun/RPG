@@ -8,7 +8,7 @@
 	**Perícias** - Ofício (Alquimia), Vontade, Luta, Miticismo, Ofício (Engenhoqueiro) e Percepção.
 **Origem** - Estudioso
 	**Item** - Livro Aprimorado (+2 Guerra), 3 Livros comuns
-	**Benefícios** - Treinado Guerra e Aparência Inofensiva
+	**Benefícios** - Treinado Guerra e Palpite Fundamentado
 **Divindade** - Tannah-Toh
 	**Voz da Civilização** - Você está sempre sob efeito de [[Compreensão]].
 
