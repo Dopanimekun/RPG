@@ -11,10 +11,14 @@
             "id": "ea4ed66f9978062f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0 - Ligma.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0 - Ligma"
             }
           }
         ]
@@ -163,20 +167,20 @@
   },
   "active": "ea4ed66f9978062f",
   "lastOpenFiles": [
-    "Ligma.md",
-    "Animais de estimação.md",
-    "Coisas que gosta.md",
-    "Devoção à Tanna-Toh.md",
-    "Objetivo de vida.md",
-    "Lugares favoritos.md",
-    "Decepções.md",
-    "Hobbies.md",
-    "Aspirações.md",
-    "Amizades.md",
-    "Coisas que não gosta.md",
-    "História.md",
+    "1 - História.md",
+    "12 - Devoção à Tanna-Toh.md",
+    "0 - Ligma.md",
+    "11 - Objetivo de vida.md",
+    "10 - Lugares favoritos.md",
+    "9 - Decepções.md",
+    "8 - Hobbies.md",
+    "7 - Aspirações.md",
+    "6 - Amizades.md",
+    "5 - Animais de estimação.md",
+    "4 - Coisas que não gosta.md",
+    "3 - Coisas que gosta.md",
+    "2 - Aparência física.md",
     "César.md",
-    "Aparência física.md",
     "Referência visual (Marlin, Tormenta20 DBride).jpg",
     "Eb37ThyWkAEf_Z4.jpg",
     "Eb37ThyWkAEf_Z4.jpg.crdownload",

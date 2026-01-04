@@ -1,6 +1,0 @@
-- Sua maior decepção em sua vida foi perceber o quanto as pessoas colocam obstáculos pra fazer o mais básico das coisas. Pessoas medíocres arrumam motivos medíocres para continuarem medíocres.
-- Ele é decepcionado com a própria vida. Quanto mais ele estuda e compreende o próprio mundo, mais o seu desejo de esquecer o que aprendeu e desaparecer aumenta. É como se o conhecimento fosse um veneno para ele mesmo. Saber tudo é perder tudo.
-- Algumas "amizades" surgiram no seu caminho, alguns traíram sua confiança, outros aproveitaram do seu status no reino como o prodígio da academia. Uma guria ([[Bianca]]) que outrora fostes sua amada aproveitou de seus status no reino, ela o traiu com um de seus "amigos" ([[Babilón]]).
-- Uma vez o seu irmão mais velho quase vendeu [[Ligma]] para algum grupo estranho, a venda não foi concluída devido a seus pais que descobriram o que estava acontecendo e deserdou o primogênito da família. Depois desse ocorrido, nunca mais ouviu-se falar de seu irmão, [[Azazel]].
-
-Voltar para [[Ligma]].

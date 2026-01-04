@@ -1,0 +1,8 @@
+Ele tem amigos como todo mundo né mano, poucos amigos, mas verdadeiros. Ele daria sua vida por eles.
+
+- [[César]] é o amigo mais velho e mais experiente em combate que Ligma conhece, ele aprendeu bastante técnicas de combate. Jaz a lenda que [[César]] sobreviveu a uma batalha intensa, próximo as montanhas glaciais, com criaturas de imenso poder, poder incomum. além de aguentar uma enorme explosão de peito aberto ao final de um dos seus últimos combate. Alguns o chamam de "Cesinha".
+- [[Michael]] infelizmente sofria com um problema sério de memória, mas era um combatente excepcional, seus golpes eram precisamente fatais. Suas habilidades como lutador eram notáveis. Há um evento em seu passado que as pessoas se recusam a falar, um tabu.
+- [[Shizuka]] é estrangeira, vinda do império de Jade. Para ganhar a vida no Reino Celestial, [[Shizuka]] trabalha como tutora autônoma, dedicada a ensinar os fundamentos da mana, como ela funciona e como os seres vivos se comportam. Ela foi uma das pessoas que o influenciou a estudar alquimia, magia e o comportamento da mana. Uma vez no passado, teve que escolher quem deveria salvar e quem deveria morrer, esse foi o maior karma de sua vida.
+Vale mencionar que [[Shizuka]] já se foi por conta da velhice, infelizmente humanos não possuem a mesma expectativa de vida de um elfo. [[0 - Ligma]] viveu boa parte de sua vida em companhia da [[Shizuka]], a conhecendo quando possuía 16 anos e ela 22. [[Shizuka]] faleceu com 83 anos. [[César]] e [[Michael]] ainda vivem, embora próximos dos 60 anos.
+
+Voltar para [[0 - Ligma]].

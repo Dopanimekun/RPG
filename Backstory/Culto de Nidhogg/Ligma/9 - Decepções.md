@@ -1,0 +1,4 @@
+- Algumas "amizades" surgiram no seu caminho, alguns traíram sua confiança, outros aproveitaram do seu status no reino como o ¨favoritinho¨ da academia. Uma guria ([[Bianca]]) que outrora fostes sua amada aproveitou de seus status no reino, ela o traiu com um de seus "amigos" ([[Babilón]]).
+- Uma vez o seu irmão mais velho quase vendeu [[0 - Ligma]] para algum grupo estranho, a venda não foi concluída devido a seus pais adotivos que descobriram o que estava acontecendo e deserdou o primogênito da família. Depois desse ocorrido, nunca mais ouviu-se falar de seu irmão, [[Azazel]].
+
+Voltar para [[0 - Ligma]].

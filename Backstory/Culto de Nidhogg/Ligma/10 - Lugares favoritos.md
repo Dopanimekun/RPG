@@ -1,0 +1,6 @@
+- A espinha do dragão é infame por ser um lugar relativamente hostil e frio em seu reino. É uma região montanhosa, silenciosa, com uma brisa gélida. O nome desse lugar foi dado devido a uma história antiga, que um dragão capaz de soltar chamas de gelo morreu por ali, e que os montes e montanhas desse local são, na verdade, os restos mortais desse dragão. Alguns dos estudos de [[0 - Ligma]] sobre mana aconteceram nesse lugar, talvez por sentir uma conexão mais forte com a mana ou talvez por ser um lugar que ele gosta bastante, ou ambos.
+- Sua casa é incomparável, a paz que sente é indescritível. Normalmente ele fica em casa em dias livres. Algumas vezes ele estuda outros temas, outras vezes ele passa o tempo desenhando e quase sempre jogando alguma coisa.
+- Ele é um estudante assíduo da academia, quase sempre ele está na biblioteca estudando ou matando o tempo.
+- Ele gosta de ficar em qualquer pracinha sentado. Parando para refletir sobre como as coisas mudam com o tempo.
+
+Voltar para [[0 - Ligma]].
