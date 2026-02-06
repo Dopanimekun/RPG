@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - Índice.md",
+                "file": "Regras não ditas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0 - Índice"
+              "title": "Regras não ditas"
             }
           }
         ]
@@ -171,8 +171,9 @@
   },
   "active": "8e2d5e78dce6800c",
   "lastOpenFiles": [
-    "1 - Construção de Personagem.md",
     "0 - Índice.md",
+    "Regras não ditas.md",
+    "1 - Construção de Personagem.md",
     "8 - Regras.md",
     "7 - Inventário.md",
     "6 - Equipamento.md",
@@ -198,7 +199,6 @@
     "Jutsus/Teia.md",
     "Jutsus/Toque Chocante.md",
     "Jutsus/Tranquilidade.md",
-    "Jutsus/Crânio voador de Vladislav.md",
     "Jutsus"
   ]
 }
