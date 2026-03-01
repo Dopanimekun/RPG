@@ -1,9 +1,9 @@
 **Nível** - 6
-**Exp** - 15850
+**Exp** - 18850
 **PV** - 33
 **PM** - 30
 **DEF** - 22
-**T$** - 677
+**T$** - 706
 # Atributos
 
 | ATR | Valor | MOD |
