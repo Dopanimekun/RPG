@@ -1,0 +1,13 @@
+**Tipo:** Arcana
+**Círculo:** Segundo
+**Execução:** Padrão
+**Alcance:** Toque
+**Alvo:** 2 criaturas voluntárias
+**Duração:** 1 dia.
+
+Você cria um elo mental entre duas criaturas com Inteligência 3 ou maior (você pode ser uma delas). As criaturas podem se comunicar independente de idioma ou distância, mas não em mundos diferentes.
+
+**+2 PM:** aumenta o número de alvos em +1.
+**+3 PM:** muda o alvo para 1 criatura. Em vez do normal, você cria um elo mental que permite que você veja e ouça pelos sentidos da criatura, se gastar uma ação de movimento. Uma criatura involuntária pode fazer um teste de Vontade para suprimir a magia por uma hora. Requer 3º círculo.
+
+[[4 - Livro de Fórmulas]]
