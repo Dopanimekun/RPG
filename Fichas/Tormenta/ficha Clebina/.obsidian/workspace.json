@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Livro de Fórmulas.md",
-                "mode": "preview",
+                "file": "3 - Poderes.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Livro de Fórmulas"
+              "title": "3 - Poderes"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de arquivos"
+              "title": "Files"
             }
           },
           {
@@ -160,43 +160,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir a troca rápida": false,
-      "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
-      "daily-notes:Abrir a nota de hoje": false,
-      "templates:Inserir modelo": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "bases:Criar nova base": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
   "active": "8e2d5e78dce6800c",
   "lastOpenFiles": [
-    "Livro de Fórmulas/Consagrar.md",
     "4 - Livro de Fórmulas.md",
+    "5 - Equipamento.md",
+    "6 - Inventário.md",
+    "7 - Engenhocas.md",
+    "Equipamentos/Espada Bastarda.md",
+    "Livro de Fórmulas/Toque Chocante.md",
     "3 - Poderes.md",
+    "2 - Atributos e Perícias.md",
+    "1 - Construção de Personagem.md",
+    "0 - Índice.md",
+    "Equipamentos/Armadura de Gelo Eterno.md",
+    "Livro de Fórmulas/Consagrar.md",
     "Livro de Fórmulas/Sono.md",
     "Livro de Fórmulas/Teia.md",
-    "Equipamentos/Martelo de Guerra.md",
-    "5 - Equipamento.md",
     "Livro de Fórmulas/Curar Ferimentos.md",
-    "6 - Inventário.md",
     "Livro de Fórmulas/Imagem Espelhada.md",
-    "2 - Atributos e Perícias.md",
     "Livro de Fórmulas/Concentração.md",
-    "Equipamentos/Armadura de Gelo Eterno.md",
     "Livro de Fórmulas/Transmutar Objetos.md",
     "Engenhocas/Alarme.md",
     "Engenhocas/Escuridão.md",
-    "1 - Construção de Personagem.md",
     "Engenhocas/HAHA JONATHAN I'M IN YOUR COMPUTES.md",
     "mestre broxa pra caralho.md",
-    "7 - Engenhocas.md",
-    "0 - Índice.md",
     "Livro de Fórmulas/Tranquilidade.md",
     "9 - Preço e Custo.md",
     "8 - Regras.md",
     "Engenhocas/Criar Elementos.md",
-    "Engenhocas/Comando.md",
     "Engenhocas",
     "Equipamentos",
     "Livro de Fórmulas"

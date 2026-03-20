@@ -35,12 +35,12 @@ Veja as regras para isso na página 70.
 ## Nível 7
 **Encontrar Fraqueza** - A partir do 7° nível, você pode gastar uma ação de movimento e 2 PM
 para analisar um objeto em alcance curto. Se fizer isso, ignora a resistência a dano dele. Você também pode usar esta habilidade para encontrar uma fraqueza em um inimigo. Se ele estiver de armadura ou for um construto, você recebe +2 em seus testes de ataque contra ele. Os benefícios desta habilidade duram até o fim da cena.
-**Armeiro** - Você recebe proficiência com armas marciais corpo a corpo. Quando usa uma arma corpo a corpo, pode usar seu modificador de Inteligência em vez de Força nos testes de ataque e rolagens de dano.
-*Pré-requisitos: treinado em Luta e Ofício (armeiro).*
-## Nível 8
-**Fabricar Item Superior** - Quatro Modificações
 **Ferreiro** - Quando usa uma arma corpo a corpo feita por você mesmo, o dano dela aumenta em um passo.
 *Pré-requisitos: Armeiro, 5° nível de inventor.*
+## Nível 8
+**Fabricar Item Superior** - Quatro Modificações
+**Alquimista de Batalha** - Quando usa um item alquímico ou poção que cause dano, você soma seu modificador de Inteligência na rolagem de dano.
+*Pré-requisito: Alquimista Iniciado.*
 ## Nível 9
 **Fabricar Item Mágico** - Menor
 **Granadeiro** - Você pode arremessar itens alquímicos e poções em alcance médio. Você pode usar seu modificador de Inteligência em vez de Destreza para calcular a CD do teste de resistência desses itens.

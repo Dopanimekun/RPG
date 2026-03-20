@@ -2,7 +2,7 @@ Capacidade de carga sem penalidade de carga 48
 Capacidade de carga com penalidade de carga 160
 **Carga:** 24,5/48
 # Armas
-[[Martelo de Guerra]] - 2,5kg
+[[Espada Bastarda]] - 2,5kg
 # Armadura
 [[Armadura de Gelo Eterno]] - 20kg
 
